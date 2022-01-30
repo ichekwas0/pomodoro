@@ -1,5 +1,4 @@
 # pomodoro
-<img width="342" alt="password interface" src="https://user-images.githubusercontent.com/89553093/151707783-e8ebff22-8522-406c-b834-385f49ca8edb.png">
-<img width="343" alt="passoword git" src="https://user-images.githubusercontent.com/89553093/151707790-2266c928-029b-457d-9de3-125324b30036.png">
-<img width="362" alt="search git" src="https://user-images.githubusercontent.com/89553093/151707796-2dd95f53-423e-4733-9106-0b629266605f.png">
-<img width="360" alt="show json" src="https://user-images.githubusercontent.com/89553093/151707800-295ca384-e937-4740-91a8-228c01d40656.png">
+<img width="376" alt="pomodoro interface" src="https://user-images.githubusercontent.com/89553093/151708362-d311f2cf-8010-4638-976b-7cbdf799c5f2.png">
+<img width="374" alt="pomodoro work" src="https://user-images.githubusercontent.com/89553093/151708366-42d68f78-698d-4df3-a247-f37b1c46f333.png">
+<img width="377" alt="pomodoro short break" src="https://user-images.githubusercontent.com/89553093/151708375-d158bc8a-ced7-47d1-9ff3-4b93cb526988.png">
